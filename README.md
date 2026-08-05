@@ -87,10 +87,14 @@ Show Image Show Image Show Image Show Image Show Image Show Image Show Image Sho
 
 </td> </tr> </table> <br>
 🟣 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nabiha-tanveer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&count_private=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabiha-tanveer&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiha-tanveer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/> </div> <br>
+🌱 Actively building and pushing projects on GitHub
+🧩 Focused on C++, JavaScript/TypeScript, and full-stack web development
+🔐 Practicing applied security — threat modeling, forensics, and web app testing
+📈 150+ problems solved on LeetCode
+<br clear="right"/> <br>
 🟣 Connect With Me
 <div align="center">
 
-Show Image Show Image Show Image
+📧 Email: nabihatanveer565@gmail.com  |  💼 LinkedIn: nabiha-tanveer  |  🌐 Portfolio: coming soon
 
 </div> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:5b21b6,100:8b5cf6&height=120&section=footer" width="100%"/>
