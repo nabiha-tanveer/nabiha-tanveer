@@ -48,7 +48,6 @@ Computer Science undergraduate (Class of 2028) with a foundation in systems prog
 | **React Hooks Project Pack** | Collection of applications built with React Hooks | [View](https://github.com/nabiha-tanveer/react-hooks-project-pack) |
 | **React Context/Redux Masterclass** | React applications using Context API and Redux | [View](https://github.com/nabiha-tanveer/react-context-redux-masterclass) |
 | **Portfolio Website** | Personal portfolio site built with vanilla HTML/CSS/JS | [View](https://github.com/nabiha-tanveer/portfolio-website) |
-| **DSA Assignment** | Data structures and algorithms implemented in C++ | [View](https://github.com/nabiha-tanveer/DSA-Assignment-1) |
 | **JS Concepts** | Advanced JavaScript — prototypes, ES6+, generators, modules | [View](https://github.com/nabiha-tanveer/js-concepts) |
 | **JS Fundamentals Demos** | Counter, To-Do, and Quiz applications | [View](https://github.com/nabiha-tanveer/js-fundamentals-demos) |
 | **Dino Game** | Browser-based game | *repo link pending* |
