@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:5b21b6,100:8b5cf6&height=200&section=header&text=Nabiha%20Tanveer&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+full-stack+web+applications;Exploring+security+%26+networking;Turning+ideas+into+code" alt="Typing SVG"/> </div> <br>
 🟣 About Me
 
-I'm a Computer Science undergraduate (Class of 2028) with a foundation in systems programming, full-stack web development, networking, and information security. I enjoy building complete products from data structures in C++ to React front ends and I'm currently deepening my knowledge of applied security and modern JavaScript/TypeScript development.
+I'm a Computer Science undergraduate (Class of 2028) at Punjab university of information technology with a foundation in systems programming, full-stack web development, networking, and information security. I enjoy building complete products from data structures in C++ to React front ends and I'm currently deepening my knowledge of applied security and modern JavaScript/TypeScript development.
 
 <table> <tr> <td>
 
