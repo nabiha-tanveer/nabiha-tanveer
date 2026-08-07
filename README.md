@@ -5,7 +5,7 @@ I'm a Computer Science undergraduate (Class of 2028) at Punjab university of inf
 
 <table> <tr> <td>
 
-🎓 Education BSCS, Computer Science Expected Graduation: 2028
+🎓 Education BSCS, Computer Science
 
 </td> <td>
 
@@ -49,10 +49,6 @@ Google Colab
 <table> <tr> <td width="50%">
 
 🕸️ Traffic Analyzer Network traffic analyzer built in C++ → View Repo
-
-</td> <td width="50%">
-
-🏥 Medical Website Website for a Lahore-based diagnostic centre → View Repo
 
 </td> </tr> <tr> <td width="50%">
 
